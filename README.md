@@ -13,7 +13,7 @@ The dataset to be examined is the abalone dataset on the UCI Machine Learning Re
 The solution to this problem is to use a linear regression model in the form of a multiple linear regression to estimate the number of rings on an abalone (dependent variable) based on the independent variables Sex, Length, Height annd Viscera weight. 
 
 **Benchmark Model**<br/>
-Given that we seek a regression model, a good naive benchmark would be to use the mean of the dependent variable (Rings), calculate using the mean of the independent variables through the use of the derived multiple linear regression formula.
+Given that we seek a regression model, a good naive benchmark would be to use the mean of the dependent variable (Rings), calculated using the mean of the independent variables using the derived multiple linear regression formula.
 
 **Evaluation Metrics**<br/>
 We will use the R-squared metric and the mean absolute error to measure the success of our model.
