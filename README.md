@@ -16,7 +16,7 @@ The solution to this problem is to use a linear regression model in the form of 
 Given that we seek a regression model, a good naive benchmark would be to use the mean of the Rings, which is the dependent variable.
 
 **Evaluation Metrics**<br/>
-We will use the R-squared metric and the mean absolute error to measure the success of our model.
+We will use the R-squared metric and the Root Mean Squared Error(RMSE) to measure the success of our model.
 
 **Citations**<br/>
 Bas,P, Jutten,C, Lendasse,M, Miche,Y, Simula, O. 2008. _A methodology for Building Regression Models using Extreme Learning Machine: OP-ELM_. European Symposium on Artificial Neural Networks.
